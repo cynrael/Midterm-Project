@@ -8,7 +8,9 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="fp.cs" t="Include" />
+          <e p="raycast.cs" t="Include" />
           <e p="tank.cs" t="Include" />
+          <e p="UI.cs" t="Include" />
         </e>
       </e>
       <e p="IntGameDev4.sln" t="IncludeFlat" />

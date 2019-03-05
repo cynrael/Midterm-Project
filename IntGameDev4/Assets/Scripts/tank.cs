@@ -31,10 +31,12 @@ public class tank : MonoBehaviour
 	void FixedUpdate()
 	{
 		tankVelocity = thisRigidBody.velocity.magnitude;
+		
 		if (thisRigidBody.velocity.magnitude < 8f)
 		{
 			thisRigidBody.AddForce(transform.forward * inputAxis.y * forceMultiplyer, ForceMode.Impulse);
 		}
+		
 		thisRigidBody.AddTorque(0, inputToTorque * torqueMultiplyer, 0, ForceMode.VelocityChange);
 	}
 }

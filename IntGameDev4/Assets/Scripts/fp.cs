@@ -16,7 +16,12 @@ public class fp : MonoBehaviour
 	public Vector3 inputVelocity;  // cumulative velocity to move character
 
 	public float velocityModifier;  // velocity of controller multiplied by this number
+	
+	public GameObject player;
+	public GameObject bug;
 
+	public bool isHolding;
+	
 	void Start()
 	{
 		thisRigidBody = GetComponent<Rigidbody>();
@@ -35,10 +40,31 @@ public class fp : MonoBehaviour
 
 		inputVelocity = transform.forward * fpForwardBackward;
 		inputVelocity += transform.right * fpStrafe;
+
+		if (Vector3.Distance(player.transform.position, bug.transform.position) < 3f)
+		{
+			//Debug.Log("sup");
+			if (Input.GetKeyDown(KeyCode.E))
+			{
+				isHolding = !isHolding;
+
+				if (isHolding)
+				{
+					bug.transform.parent = player.transform;
+					Debug.Log("im holding something");
+				}
+				else
+				{
+						bug.transform.parent = null;
+						Debug.Log("nope");
+			
+					}
+				}
+			}
 	}
 
 	void FixedUpdate()
 	{
 		thisRigidBody.velocity = inputVelocity * velocityModifier + (Physics.gravity * .69f);
-	}
+	}	
 }
