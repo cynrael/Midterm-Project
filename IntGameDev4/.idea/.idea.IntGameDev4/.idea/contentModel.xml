@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\winly\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\winly\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_IntGameDev4.-460287598.00" t="ExcludeRecursive" />
-    <e p="C:\Users\winly\IntGameDev4" t="IncludeRecursive">
+    <e p="C:\Users\winly\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_IntGameDev4.2043098577.00" t="ExcludeRecursive" />
+    <e p="C:\Users\winly\Documents\MidtermProject\IntGameDev4" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="bugs.cs" t="Include" />
           <e p="fp.cs" t="Include" />
+          <e p="interact.cs" t="Include" />
           <e p="raycast.cs" t="Include" />
           <e p="tank.cs" t="Include" />
           <e p="UI.cs" t="Include" />

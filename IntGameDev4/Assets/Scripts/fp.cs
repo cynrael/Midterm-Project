@@ -20,11 +20,17 @@ public class fp : MonoBehaviour
 	public GameObject player;
 	public GameObject bug;
 
+	public GameObject[] bugs;
+
 	public bool isHolding;
+	
+	
+
 	
 	void Start()
 	{
 		thisRigidBody = GetComponent<Rigidbody>();
+		bugs = GameObject.FindGameObjectsWithTag("bug");
 	}
 
 	void Update()
@@ -40,7 +46,10 @@ public class fp : MonoBehaviour
 
 		inputVelocity = transform.forward * fpForwardBackward;
 		inputVelocity += transform.right * fpStrafe;
-
+// cast the ray to determine where you're looking for bugs
+		//if you find a bug with your ray you hit it with the ray 
+		//when youve hit the bug use the next script
+		
 		if (Vector3.Distance(player.transform.position, bug.transform.position) < 3f)
 		{
 			//Debug.Log("sup");

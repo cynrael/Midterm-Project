@@ -16,7 +16,7 @@ public class raycast : MonoBehaviour
 	// Update is called once per frame
 	void Update()
 	{
-		Ray myRay = new Ray(this.transform.position, Vector3.down);
+		Ray myRay = new Ray(transform.position, Vector3.down);
 
 		Debug.DrawRay(myRay.origin, new Vector3(0, -rayDistance, 0), Color.blue);
 		
