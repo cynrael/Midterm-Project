@@ -4,21 +4,21 @@ using UnityEngine;
 
 public class UI : MonoBehaviour
 {
-	public Canvas canvas;
-	public bool CanvasToggleOn;
+	//public Canvas canvas;
+	//public bool CanvasToggleOn;
 	
 	// Use this for initialization
 	void Start () {
-		canvas.gameObject.SetActive(false);
+	//	canvas.gameObject.SetActive(false);
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
-		if (Input.GetKeyDown(KeyCode.F))
+		/*if (Input.GetKeyDown(KeyCode.F))
 		{
 			CanvasToggleOn = !CanvasToggleOn;
-			canvas.gameObject.SetActive(CanvasToggleOn);
+			canvas.gameObject.SetActive(CanvasToggleOn);*/
 		}
 	}
-}
+

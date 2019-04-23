@@ -44,119 +44,52 @@
     <session id="-2142759245">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2369" />
+          <entry key="cs" value="3387" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2369" />
+          <entry key="C#" value="3387" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="4" />
+          <entry key="cs" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="4" />
+          <entry key="C#" value="7" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/raycast.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-              <folding>
-                <marker date="1552269947550" expanded="false" signature="6:78" ph="..." />
-                <marker date="1552269947550" expanded="true" signature="116:566" ph="{...}" />
-                <marker date="1552269947550" expanded="true" signature="197:204" ph="{...}" />
-                <marker date="1552269947550" expanded="true" signature="256:564" ph="{...}" />
-                <marker date="1552269947550" expanded="true" signature="440:516" ph="{...}" />
-                <marker date="1552269947550" expanded="true" signature="523:561" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/fp.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
-              <folding>
-                <marker date="1552336328976" expanded="false" signature="6:78" ph="..." />
-                <marker date="1552336328976" expanded="true" signature="111:1161" ph="{...}" />
-                <marker date="1552336328976" expanded="true" signature="626:677" ph="{...}" />
-                <marker date="1552336328976" expanded="true" signature="693:1043" ph="{...}" />
-                <marker date="1552336328976" expanded="true" signature="1064:1158" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/interact.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-71">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="640">
+              <caret line="51" column="1" selection-start-line="24" selection-start-column="6" selection-end-line="51" selection-end-column="1" />
               <folding>
-                <marker date="1552336327186" expanded="true" signature="6:78" ph="..." />
-                <marker date="1552336327186" expanded="true" signature="117:2068" ph="{...}" />
-                <marker date="1552336327186" expanded="true" signature="213:294" ph="/* public GameObject[] bugs; ... */" />
-                <marker date="1552336327186" expanded="true" signature="311:477" ph="{...}" />
-                <marker date="1552336327186" expanded="true" signature="335:471" ph="/* Cursor.lockState = CursorLockMode.Locked; ... */" />
-                <marker date="1552336327186" expanded="true" signature="539:2066" ph="{...}" />
-                <marker date="1552336327186" expanded="true" signature="551:727" ph="/* cast the ray to determine where you're looking for bugs ... */" />
-                <marker date="1552336327186" expanded="true" signature="998:2060" ph="{...}" />
-                <marker date="1552336327186" expanded="true" signature="1087:1555" ph="{...}" />
-                <marker date="1552336327186" expanded="true" signature="1203:1375" ph="{...}" />
-                <marker date="1552336327186" expanded="true" signature="1396:1541" ph="{...}" />
-                <marker date="1552336327186" expanded="true" signature="1564:2034" ph="/* if (hit.transform.gameObject.CompareTag(&quot;bug&quot;) &amp;&amp; Input.GetKeyDown(KeyCode.E)) ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/bugs.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-              <folding>
-                <marker date="1552329314406" expanded="false" signature="6:78" ph="..." />
-                <marker date="1552329314406" expanded="true" signature="113:571" ph="{...}" />
-                <marker date="1552329314406" expanded="true" signature="246:300" ph="{...}" />
-                <marker date="1552329314406" expanded="true" signature="323:555" ph="{...}" />
-                <marker date="1552329314406" expanded="true" signature="417:543" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <marker date="1551801126100" expanded="false" signature="6:78" ph="..." />
-                <marker date="1551801126100" expanded="true" signature="111:447" ph="{...}" />
-                <marker date="1551801126100" expanded="true" signature="215:257" ph="{...}" />
-                <marker date="1551801126100" expanded="true" signature="311:445" ph="{...}" />
-                <marker date="1551801126100" expanded="true" signature="349:442" ph="{...}" />
+                <marker date="1552336422415" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552336422415" expanded="true" signature="117:1473" ph="{...}" />
+                <marker date="1552336422415" expanded="true" signature="283:377" ph="{...}" />
+                <marker date="1552336422415" expanded="true" signature="439:1471" ph="{...}" />
+                <marker date="1552336422415" expanded="true" signature="451:627" ph="/* cast the ray to determine where you're looking for bugs ... */" />
+                <marker date="1552336422415" expanded="true" signature="898:1465" ph="{...}" />
+                <marker date="1552336422415" expanded="true" signature="987:1455" ph="{...}" />
+                <marker date="1552336422415" expanded="true" signature="1103:1275" ph="{...}" />
+                <marker date="1552336422415" expanded="true" signature="1296:1441" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -183,12 +116,14 @@
         <option value="$PROJECT_DIR$/Assets/tank.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/tank.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/grab.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UI.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/bug.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/raycast.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/bugs.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/fp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/interact.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/bugs.cs" />
+        <option value="$PROJECT_DIR$/../../TheStanleyProject-Team-/TheStanleyProject/Assets/Scripts/Raycast.cs" />
+        <option value="$PROJECT_DIR$/../../TheStanleyProject-Team-/TheStanleyProject/Assets/Raycast.cs" />
       </list>
     </option>
   </component>
@@ -209,12 +144,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
       </pane>
     </panes>
   </component>
@@ -270,12 +205,16 @@
       <workItem from="1551739154719" duration="3760000" />
       <workItem from="1551800887595" duration="1451000" />
       <workItem from="1551971400129" duration="8713000" />
-      <workItem from="1552266445912" duration="11363000" />
+      <workItem from="1552266445912" duration="13195000" />
+      <workItem from="1552399740805" duration="3834000" />
+      <workItem from="1552510237835" duration="2592000" />
+      <workItem from="1552781550358" duration="2717000" />
+      <workItem from="1554593341739" duration="1251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55812000" />
+    <option name="totallyTimeSpent" value="68038000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,9 +227,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.295302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,8 +251,34 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.3295302" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.295302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.3295302" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -352,42 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-          <folding>
-            <marker date="1552269947550" expanded="false" signature="6:78" ph="..." />
-            <marker date="1552269947550" expanded="true" signature="116:566" ph="{...}" />
-            <marker date="1552269947550" expanded="true" signature="197:204" ph="{...}" />
-            <marker date="1552269947550" expanded="true" signature="256:564" ph="{...}" />
-            <marker date="1552269947550" expanded="true" signature="440:516" ph="{...}" />
-            <marker date="1552269947550" expanded="true" signature="523:561" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/bugs.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <marker date="1552329314406" expanded="false" signature="6:78" ph="..." />
-            <marker date="1552329314406" expanded="true" signature="113:571" ph="{...}" />
-            <marker date="1552329314406" expanded="true" signature="246:300" ph="{...}" />
-            <marker date="1552329314406" expanded="true" signature="323:555" ph="{...}" />
-            <marker date="1552329314406" expanded="true" signature="417:543" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <marker date="1551801126100" expanded="false" signature="6:78" ph="..." />
-            <marker date="1551801126100" expanded="true" signature="111:447" ph="{...}" />
-            <marker date="1551801126100" expanded="true" signature="215:257" ph="{...}" />
-            <marker date="1551801126100" expanded="true" signature="311:445" ph="{...}" />
-            <marker date="1551801126100" expanded="true" signature="349:442" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -405,23 +333,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/bugs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+          <folding>
+            <marker date="1552783333450" expanded="true" signature="6:113" ph="..." />
+            <marker date="1552783333450" expanded="true" signature="148:3054" ph="{...}" />
+            <marker date="1552783333450" expanded="true" signature="579:780" ph="/* public bool maroonIconActive; ... */" />
+            <marker date="1552783333450" expanded="true" signature="799:1100" ph="{...}" />
+            <marker date="1552783333450" expanded="true" signature="814:1093" ph="/* maroonIcon.gameObject.SetActive(false); ... */" />
+            <marker date="1552783333450" expanded="true" signature="1119:3052" ph="{...}" />
+            <marker date="1552783333450" expanded="true" signature="1665:1930" ph="{...}" />
+            <marker date="1552783333450" expanded="true" signature="1676:1792" ph="/* maroonIconActive = !maroonIconActive; ... */" />
+            <marker date="1552783333450" expanded="true" signature="1837:1920" ph="{...}" />
+            <marker date="1552783333450" expanded="true" signature="1940:3046" ph="/* if (Vector3.Distance(woolybear.transform.position, goal.transform.position) &lt; 3f) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1552782079243" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552782079243" expanded="true" signature="111:455" ph="{...}" />
+            <marker date="1552782079243" expanded="true" signature="115:203" ph="/* public Canvas canvas; ... */" />
+            <marker date="1552782079243" expanded="true" signature="219:263" ph="{...}" />
+            <marker date="1552782079243" expanded="true" signature="317:452" ph="{...}" />
+            <marker date="1552782079243" expanded="true" signature="323:448" ph="/* if (Input.GetKeyDown(KeyCode.F)) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../TheStanleyProject-Team-/TheStanleyProject/Assets/Scripts/Raycast.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="1" lean-forward="true" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../TheStanleyProject-Team-/TheStanleyProject/Assets/Scripts/NewBehaviourScript.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../TheStanleyProject-Team-/TheStanleyProject/Assets/Raycast.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/interact.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-71">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="640">
+          <caret line="51" column="1" selection-start-line="24" selection-start-column="6" selection-end-line="51" selection-end-column="1" />
           <folding>
-            <marker date="1552336327186" expanded="true" signature="6:78" ph="..." />
-            <marker date="1552336327186" expanded="true" signature="117:2068" ph="{...}" />
-            <marker date="1552336327186" expanded="true" signature="213:294" ph="/* public GameObject[] bugs; ... */" />
-            <marker date="1552336327186" expanded="true" signature="311:477" ph="{...}" />
-            <marker date="1552336327186" expanded="true" signature="335:471" ph="/* Cursor.lockState = CursorLockMode.Locked; ... */" />
-            <marker date="1552336327186" expanded="true" signature="539:2066" ph="{...}" />
-            <marker date="1552336327186" expanded="true" signature="551:727" ph="/* cast the ray to determine where you're looking for bugs ... */" />
-            <marker date="1552336327186" expanded="true" signature="998:2060" ph="{...}" />
-            <marker date="1552336327186" expanded="true" signature="1087:1555" ph="{...}" />
-            <marker date="1552336327186" expanded="true" signature="1203:1375" ph="{...}" />
-            <marker date="1552336327186" expanded="true" signature="1396:1541" ph="{...}" />
-            <marker date="1552336327186" expanded="true" signature="1564:2034" ph="/* if (hit.transform.gameObject.CompareTag(&quot;bug&quot;) &amp;&amp; Input.GetKeyDown(KeyCode.E)) ... */" />
+            <marker date="1552336422415" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552336422415" expanded="true" signature="117:1473" ph="{...}" />
+            <marker date="1552336422415" expanded="true" signature="283:377" ph="{...}" />
+            <marker date="1552336422415" expanded="true" signature="439:1471" ph="{...}" />
+            <marker date="1552336422415" expanded="true" signature="451:627" ph="/* cast the ray to determine where you're looking for bugs ... */" />
+            <marker date="1552336422415" expanded="true" signature="898:1465" ph="{...}" />
+            <marker date="1552336422415" expanded="true" signature="987:1455" ph="{...}" />
+            <marker date="1552336422415" expanded="true" signature="1103:1275" ph="{...}" />
+            <marker date="1552336422415" expanded="true" signature="1296:1441" ph="{...}" />
           </folding>
         </state>
       </provider>
